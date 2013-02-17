@@ -5,9 +5,9 @@ This is a vagrant vm with browserid server provisioned.
 
 Note:
 ======  
-cd 
+cd   
 git clone https://github.com/hfeeki/vagrant-browserid.git  
-git clone https://github.com/hfeeki/chef-repo.git 
-cd vagrant-browserid
+git clone https://github.com/hfeeki/chef-repo.git   
+cd vagrant-browserid  
 ./kickstart.sh
 
