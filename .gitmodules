@@ -1,0 +1,3 @@
+[submodule "baseboxes"]
+	path = baseboxes
+	url = https://github.com/hfeeki/vagrant-basebox-templates.git
